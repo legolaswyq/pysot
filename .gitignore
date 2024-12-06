@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+*.jpg
+data/
+# model files 
+*.pth
 __pycache__/
 *.py[cod]
 *$py.class
